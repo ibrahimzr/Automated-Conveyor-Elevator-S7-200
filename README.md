@@ -37,13 +37,22 @@ Developed using **Siemens S7-200 PLC (CPU 224)** and visualized through **Factor
 
 ---
 
+## 🎥 Project Demo
+
+Watch the full system in action on YouTube:
+
+👉 [YouTube – Project Walkthrough](https://youtu.be/TJ9Yn2aQKfM)
+
+[![Watch the video](https://img.youtube.com/vi/TJ9Yn2aQKfM/hqdefault.jpg)](https://youtu.be/TJ9Yn2aQKfM)
+
+---
+
 ## 📸 Preview
 
 ![image](https://github.com/user-attachments/assets/4b6d58f8-4a3d-4415-92dc-b1af5e7c1941)
 
 ![image](https://github.com/user-attachments/assets/2fd7fb74-a055-4e37-8d91-677bc5e315a4)
 ![image](https://github.com/user-attachments/assets/0e9d8134-708b-44dc-a581-3c87a741ad3d)
-
 
 ---
 
@@ -53,6 +62,5 @@ For questions or more automation content:
 
 📷 Instagram: [@7zr.9](https://www.instagram.com/7zr.9?igsh=NWc4eTY0amx6bXpn)
 
-
-
+---
 
