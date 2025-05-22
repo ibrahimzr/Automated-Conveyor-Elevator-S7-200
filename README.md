@@ -39,7 +39,8 @@ Developed using **Siemens S7-200 PLC (CPU 224)** and visualized through **Factor
 
 ## 📸 Preview
 
-*(Add screenshots from Factory I/O or ladder diagram if available)*
+![image](https://github.com/user-attachments/assets/7c23cf89-87e8-4612-a18e-0bca2694866f)
+
 
 ---
 
