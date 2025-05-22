@@ -49,11 +49,6 @@ For questions or more automation content:
 
 📷 Instagram: [@7zr.9](https://www.instagram.com/7zr.9?igsh=NWc4eTY0amx6bXpn)
 
----
 
-## ❤️ Support This Project
 
-If you found this project helpful:
-- ⭐ Star this repository
-- 🔁 Share it with your network
-- 🔔 Follow for more factory automation solutions
+
