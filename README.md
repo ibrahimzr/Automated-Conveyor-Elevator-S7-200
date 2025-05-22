@@ -39,7 +39,10 @@ Developed using **Siemens S7-200 PLC (CPU 224)** and visualized through **Factor
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/7c23cf89-87e8-4612-a18e-0bca2694866f)
+![image](https://github.com/user-attachments/assets/4b6d58f8-4a3d-4415-92dc-b1af5e7c1941)
+
+![image](https://github.com/user-attachments/assets/2fd7fb74-a055-4e37-8d91-677bc5e315a4)
+![image](https://github.com/user-attachments/assets/0e9d8134-708b-44dc-a581-3c87a741ad3d)
 
 
 ---
